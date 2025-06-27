@@ -25,9 +25,15 @@ import language_tool_python
 import textstat
 from utils import load_contracts_from_folder, build_vector_store, load_docs_from_folder
 
+import streamlit as st
+import os
+
+os.environ["LANGCHAIN_API_KEY"] = st.secrets["LANGCHAIN_API_KEY"]
+
 load_dotenv()
 os.environ["LANGCHAIN_TRACING_V2"] = "true"
-os.environ["LANGCHAIN_API_KEY"] = os.getenv("LANGCHAIN_API_KEY")
+# os.environ["LANGCHAIN_API_KEY"] = os.getenv("LANGCHAIN_API_KEY")
+
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 EMBED_PATH = "embeddings"
 INDEX_FILE = os.path.join(EMBED_PATH, "index.faiss")
