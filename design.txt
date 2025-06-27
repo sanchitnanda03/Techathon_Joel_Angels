@@ -1,0 +1,114 @@
+Core Design Philosophy
+Professional, trustworthy, and cutting-edge with a focus on user experience. Balancing legal credibility with modern tech appeal.
+
+Color Scheme
+Primary: Navy Blue (#0A192F) - Trust, professionalism
+
+Secondary: Gold (#FFD700) - Premium, value
+
+Accent: Teal (#20B2AA) - Tech innovation
+
+Neutrals: Light Gray (#F8F9FA), White (#FFFFFF)
+
+Text: Charcoal (#333333) for body, White for dark backgrounds
+
+Key Visual Elements
+Header/Navigation Bar
+
+Left: Minimalist logo (abstract scales of justice + AI circuit pattern)
+
+Center: Navigation (Home, Generate, Translate, About, Contact)
+
+Right: Language selector + User account icon
+
+Animation: Smooth color transition on hover, subtle underline effect
+
+Hero Section (Homepage)
+
+Headline: "AI-Powered Legal Contracts: Precision-Tailored in 60 Seconds"
+
+Subheading: "Court-Ready Documents • Enterprise-Grade Security • Zero Legal Jargon"
+
+Animated background: Floating document icons morphing into checkmarks
+
+CTA Buttons: "Generate Contract" (gold), "Translate Document" (teal)
+
+Contract Generation Page
+Layout: 2-Column Design
+Left Panel (Input Fields)
+
+Sleek card design with soft shadow
+
+Fields:
+
+Contract Category (dropdown with icons: 🏠 Real Estate, 🤝 Partnership, 💼 Employment, etc.)
+
+Party One (text input + "Add Details" tooltip)
+
+Party Two
+
+Effective Date (calendar picker)
+
+"Advanced Options" toggle (jurisdiction, governing law)
+
+Generate Button: Gold with loading animation (pulsing rings)
+
+Right Panel (Preview)
+
+Interactive document viewer (page-flip animation)
+
+Real-time syntax highlighting for key clauses
+
+Download Bar: PDF/DOCX buttons with file-size indicators
+
+"Request Human Review" option (premium feature)
+
+Translation Portal
+File Upload Zone
+
+Drag-and-drop area with cloud icon animation
+
+Supported formats: DOCX/PDF badges with hover explanations
+
+Language Selector: Flag icons with AI-recommended "best match" indicator
+
+Dual-Pane Preview
+
+Split-screen: Original (left) ↔ Translation (right)
+
+Sync-scroll functionality
+
+Highlighted text comparisons on hover
+
+Download Options: Separate buttons for each format
+
+AI Agent Framework
+"LegalMind Assistant" (Floating Chatbot)
+
+Avatar: Abstract geometric owl (wisdom + tech)
+
+Features:
+
+Context-aware guidance through contract generation
+
+Real-time clause explanations (hover over any contract term)
+
+Risk assessment indicators (🚦 Low/Medium/High flags)
+
+"What-If" scenario simulations (e.g., "Show breach consequences")
+
+Animation: Gentle pulsation when new insights available
+
+Micro-Interactions & Animations
+Form Field Focus: Gentle border-glow (teal) + label elevation
+
+Document Generation:
+
+"Building Blocks" animation - clauses assembling into document
+
+Progress bar with legal-themed milestones ("Drafting...", "Reviewing...", "Finalizing")
+
+Download Buttons: File icon transforms into arrow on hover
+
+Security Badge: Animated shield icon with "Enterprise-Grade Encryption" tooltip
+

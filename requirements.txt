@@ -1,0 +1,16 @@
+streamlit
+streamlit-option-menu
+python-dotenv
+langchain
+langchain-community
+langchain_community
+langsmith
+openai
+faiss-cpu
+huggingface-hub
+sentence-transformers
+python-docx
+docx2txt
+textstat
+language_tool_python
+unstructured[all-docs]

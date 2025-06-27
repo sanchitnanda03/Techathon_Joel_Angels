@@ -1,0 +1,35 @@
+Modèle d’accord de confidentialité (NDA)
+Entre :
+[Nom de la partie divulgante],
+Adresse : [Adresse complète] (représentée par [Nom du représentant], en sa qualité de [Titre du représentant]) (ci-après « la Partie divulgante »)
+Et :
+[Nom de la partie recevante],
+Adresse : [Adresse complète] (représentée par [Nom du représentant], en sa qualité de [Titre du représentant]) (ci-après « la Partie recevante »)
+Préambule :
+Les parties souhaitent échanger des informations confidentielles pour les besoins de [décrire l'objectif, par exemple, "évaluer une collaboration potentielle sur le développement d'un nouveau produit"].
+Article 1 : Définition des informations confidentielles
+Aux fins du présent Accord, l'expression "informations confidentielles" désigne toutes les données, informations, documents, logiciels, techniques, savoir-faire, dessins industriels, stratégies commerciales et autres matériels jugés confidentiels, divulgués oralement, par écrit ou par tout autre moyen par la Partie divulgante à la Partie recevante.
+Article 2 : Obligations de confidentialité
+2.1 La Partie recevante s’engage à :
+(a) Ne pas utiliser les informations confidentielles à d'autres fins que celles stipulées dans le Préambule.
+(b) Garder les Informations confidentielles strictement confidentielles et ne pas les divulguer à des tiers, sauf autorisation écrite préalable de la Partie divulgante.
+(c) Prendre toutes les mesures nécessaires pour protéger la confidentialité des Informations Confidentielles.
+Article 3 : Exceptions
+Les obligations de confidentialité ne s'appliquent pas aux informations qui :
+(a) étaient déjà connues de la Partie recevante avant leur divulgation par la Partie divulgante ;
+(b) sont ou deviennent publiquement disponibles sans faute de la Partie recevante ;
+(c) sont reçues de tiers sans obligation de confidentialité.
+Article 4 : Durée
+Cet Accord prend effet à la date de sa signature et reste en vigueur pendant une période de [durée] après la dernière date de divulgation des Informations confidentielles.
+Article 5 : Conséquences de la violation
+Toute violation de cet Accord peut entraîner des dommages irréparables pour la Partie divulgante. En cas de violation, la Partie divulgante a le droit de demander une réparation judiciaire, y compris, mais sans s'y limiter, des injonctions et des dommages-intérêts.
+Article 6 : Généralités
+6.1 Cet Accord constitue l'entente complète entre les parties concernant son objet.
+6.2 Aucune modification de cet Accord n'est valide à moins d'être écrite et signée par les deux parties.
+Les parties ont signé cet Accord à la date indiquée ci-dessous.
+Signé par [nom du Représentant de la Partie divulgante]
+Titre : [Titre]
+Date : [Date]
+Signé par [nom du Représentant de la Partie recevante]
+Titre : [Titre]
+Date : [Date]

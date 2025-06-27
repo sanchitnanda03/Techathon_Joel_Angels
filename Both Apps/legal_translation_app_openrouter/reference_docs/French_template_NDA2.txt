@@ -1,0 +1,77 @@
+ACCORD DE CONFIDENTIALITÉ
+
+ENTRE
+La société X (forme juridique) dont le siège social est situé ..., dont le numéro de TVA intracommunautaire est ..., immatriculée au Registre du Commerce et des Sociétés de ... sous le numéro ..., représentée par ..., en sa qualité de ..., dûment habilitée aux fins des présentes.
+Ci-après dénommée « Nom de la société X »,
+
+ET
+La société Y (forme juridique) dont le siège social est situé ..., dont le numéro de TVA intracommunautaire est ..., immatriculée au Registre du Commerce et des Sociétés de ... sous le numéro ..., représentée par ..., en sa qualité de ..., dûment habilitée aux fins des présentes.
+Ci-après dénommée « Nom de la société Y »,
+
+Et individuellement dénommée « la Partie » et collectivement « les Parties »,
+
+PRÉAMBULE
+La société X est (description de l’activité de la société).
+La société X souhaite aujourd’hui décrire la relation avec la société Y qui a (description du besoin cherché chez la société Y) + (description des éléments mis à disposition de la part de la société X à la société Y dans le cadre du contrat).
+Dans ce cadre, la société X va devoir transmettre à la société Y certaines informations, notamment de nature technique, commerciale et financière (préciser la nature des informations transmises) à caractère confidentiel dont elle est propriétaire. Les informations détenues par la société X seront ci-après désignées par les termes « Informations Confidentielles ».
+La société X communiquera à la société Y les Informations Confidentielles nécessaires pour l’intégration de son produit (désigné le produit) mis en œuvre par la société Y. La société X en demeurera le propriétaire, la société Y s’interdisant d’exploiter les données du (produit) autrement que dans le cadre des relations d’affaires développées entre les Parties, et ce même une fois que ces relations auront cessé.
+Ceci exposé, les Parties sont convenues de ce qui suit.
+
+1. Informations Confidentielles
+Tels qu’utilisés dans le présent Accord, les termes « Informations Confidentielles » désignent l’ensemble des informations de quelque nature que ce soit et sous quelque forme que ce soit, tels que les données, les documents de toute nature, toute information technique, commerciale, stratégique, financière ou de toute autre nature, tous échantillons, toutes spécifications, tous dessins, tous logiciels, tous modèles, tous rapports, tous descriptifs et toutes études, appartenant à la société X, à ses filiales ou à l’une quelconque des sociétés de son Groupe (à adapter au cas d’espèce) (ci-après la « Partie Divulguante »), qui sont portées à la connaissance de la société X (la « Partie Destinataire ») dans le cadre du Projet décrit dans le Préambule, par écrit, par oral ou qui tombent en la possession de cette dernière de quelque autre manière que ce soit, au cours des discussions ou par son accès physique ou électronique aux locaux de la Partie Divulguante.
+Le caractère confidentiel des Informations Confidentielles est indépendant de la mention ou de l’absence de mention « confidentiel » ou « secret ».
+
+2. Utilisation et Propriété des Informations Confidentielles
+La Partie Destinataire s’engage à ne pas divulguer, à qui que ce soit et de quelque manière que ce soit, les Informations Confidentielles de l’autre Partie sans l’accord préalable écrit de cette dernière.
+En outre, la Partie Destinataire n'utilisera pas, ou ne permettra pas à des tiers d'utiliser les Informations Confidentielles à d’autres fins que celles pour lesquelles les Parties se sont rapprochées.
+La Partie Destinataire s’engage à faire tout ce qui est en son pouvoir pour empêcher la divulgation, la diffusion, la copie, la reproduction, la duplication, partielle ou totale, ou l'utilisation non autorisée des Informations Confidentielles, et notamment, à prendre des mesures au moins équivalentes à celles qu’elle prend pour protéger ses propres informations, étant précisé que ces stipulations n’ont pas pour objet (i) de restreindre la libre communication des Informations Confidentielles et des supports sur lesquels elles sont reproduites entre les personnes impliquées dans le Projet et notamment les préposés, conseils, avocats et experts des Parties amenés à intervenir au nom et pour le compte d’une Partie sur le Projet ou (ii) d’interdire les copies conformément à la politique de sauvegarde des données ou au plan de continuation d’activité de la Partie Destinataire.
+L’ensemble des Informations Confidentielles demeurera la propriété exclusive de la Partie Divulguante et la Partie Destinataire n'aura aucun droit, par licence ou d’une autre manière, d'utiliser les Informations Confidentielles, sauf disposition expresse de l’Accord.
+Aucune disposition de l’Accord ne peut être interprétée comme obligeant l'une ou l'autre des Parties à divulguer des Informations Confidentielles à l'autre Partie, à commencer les discussions ou à les mener jusqu’à leur terme. Les Parties reconnaissent que l’Accord est lié aux accords commerciaux conclus par ailleurs entre les Parties, et que le présent Accord serait immédiatement résilié en cas de remise en cause desdits accords commerciaux, à moins qu’il en soit expressément décidé autrement par les Parties.
+La Partie Divulguante transmettra à l'autre Partie les seules Informations Confidentielles qu’elle jugera nécessaires à la poursuite du Projet.
+Sauf accord exprès, les Parties ne donnent aucune garantie quant à la valeur ou la précision des Informations Confidentielles.
+Il est expressément convenu entre les Parties que la divulgation par la Partie Divulguante d'Informations Confidentielles au titre de l’Accord ne peut en aucun cas être interprétée comme conférant de manière expresse ou implicite à la Partie Destinataire un droit quelconque, aux termes d'une licence ou par tout autre moyen, sur les matières ou inventions auxquelles se rapportent les Informations Confidentielles autres que celles strictement nécessaires à la mise en œuvre du service de comparaison. Il en est de même en ce qui concerne les droits d'auteur ou autres droits attachés à la propriété littéraire ou artistique, les marques ou le secret des affaires.
+
+3. Exceptions
+Les stipulations qui précèdent ne s’appliquent pas aux informations suivantes :
+● Informations qui, lors de leur révélation, sont du domaine public ou qui deviennent du domaine public sans violation du présent accord ;
+● Informations dont l’une des Parties peut prouver qu’elles étaient en sa possession lors de leur révélation et qu’elles n’ont pas été acquises directement ou indirectement auprès de l’autre Partie ;
+● Informations dont l’une des Parties peut prouver qu’elles ont été acquises à titre non confidentiel auprès d’une source autre que l’autre Partie.
+La charge de la preuve de ces exceptions incombe à la Partie qui s’en prévaut.
+
+En cas de communication imposée par l’application d’une disposition légale ou réglementaire ou d’une décision de justice définitive, la Partie Destinataire ayant été contrainte à ladite communication doit en informer préalablement et sans délai la Partie Divulgante et s’engage à ne communiquer que ce qui est strictement nécessaire pour satisfaire à ses obligations.
+
+4. Personnel de la Partie Destinataire
+La Partie Destinataire limitera la possession, la connaissance, le développement et l'utilisation des Informations Confidentielles à ses seuls employés, agents, sous-traitants, mandataires ou préposés (collectivement dénommés « le Personnel ») qui ont besoin de connaître les Informations Confidentielles en rapport avec les objectifs précisés dans l’Accord, et sous réserve que ces derniers s'engagent (i) à respecter les obligations de confidentialité contenues dans le présent Accord et (ii) à ne les utiliser qu’aux fins énoncées dans la présente section. De convention expresse entre les Parties, la communication au Personnel peut être faite sans autorisation de la Partie Divulgante.
+La Partie Destinataire, qui reste seule responsable des agissements de son Personnel, s'assurera que celui-ci se conforme à l’Accord et informera promptement la Partie Divulguante d’une quelconque violation de celui-ci.
+
+5. Retour des Informations Confidentielles
+A l’issue de l’Accord ou sur simple demande de la Partie Divulguante, la Partie Destinataire renverra ou détruira promptement (ou, dans le cas de réalisations électroniques, effacera de manière permanente) tous les documents tangibles contenant les Informations Confidentielles (tout formulaire et y compris, sans que cela soit limitatif, l’ensemble des résumés, copies et extraits des Informations Confidentielles) en sa possession ou sous son contrôle et en justifiera à la Partie Divulguante sur simple demande.
+La Partie Destinataire peut conserver une copie de chaque Information Confidentielle qui lui permettra de répondre à des obligations légales ou réglementaires impératives ou d’assurer sa défense en justice, de telles copies devant être conservées confidentiellement.
+Toute Information Confidentielle, sur support oral ou écrit, qui ne pourrait pas être restituée ou détruite, continuera à être soumise aux termes de cet Accord pour une durée telle qu'explicitée à l’article « Durée » ci-après.
+
+6. Responsabilités
+Chaque Partie assume l'entière responsabilité des préjudices subis par l'autre Partie ou les tiers découlant de ses fautes et manquements à ses obligations telles que définies dans l’Accord. Il n'y a pas de solidarité entre les Parties.
+
+7. Indépendance
+L’Accord ne crée aucun engagement d’exclusivité de quelque nature que ce soit entre les Parties.
+
+8. Durée et Résiliation
+Chaque Partie s’engage à conserver comme confidentielle chaque Information Confidentielle reçue de l’autre Partie, pendant la durée de leurs relations commerciales plus une durée de deux (2) années à compter de la fin de ces relations.
+En tout état de cause, chaque Partie reste en droit de faire cesser l’Accord à tout moment moyennant un préavis de trente jours, et sans préavis en cas de faute grave de l’autre Partie.
+
+9. Non-Renonciation
+Le fait pour l'une ou l'autre Partie de ne pas obtenir de l'autre Partie la stricte application de l’une quelconque des stipulations de l’Accord ne constitue pas une renonciation de son droit de faire appliquer ultérieurement ladite disposition ou toute autre stipulation de l’Accord.
+
+10. Droit applicable et Juridiction
+L’Accord est régi par le droit français. En cas de différend entre les Parties relatif à la validité, l’interprétation ou l’exécution de l’Accord, elles conviennent, pour le cas où un accord amiable serait impossible à arrêter, que le Tribunal de Commerce de Paris sera seul compétent pour en connaître.
+
+Fait à … le …………….
+En 2 exemplaires originaux, dont un pour chacune des parties.
+
+Nom :
+Titre :
+Pour la Société X
+Société Y
+
+Cachet de l’entreprise suivi de la mention “bon pour accord”
+

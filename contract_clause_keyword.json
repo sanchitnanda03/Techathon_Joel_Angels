@@ -1,0 +1,110 @@
+{
+  "Non-Disclosure Agreement": [
+    "Confidentiality",
+    "Disclosure",
+    "Term",
+    "Termination",
+    "Governing Law",
+    "Injunction",
+    "Return of Materials",
+    "No License",
+    "Severability",
+    "Entire Agreement"
+  ],
+  "Employment Agreement": [
+    "Employment Term",
+    "Duties and Responsibilities",
+    "Compensation",
+    "Working Hours",
+    "Leave Policy",
+    "Confidentiality",
+    "Termination",
+    "Non-Compete",
+    "Governing Law",
+    "Amendments"
+  ],
+  "Master Service Agreement": [
+    "Scope of Services",
+    "Service Level Agreement",
+    "Payment Terms",
+    "Invoicing and Taxes",
+    "Confidentiality",
+    "Intellectual Property",
+    "Termination",
+    "Indemnity",
+    "Limitation of Liability",
+    "Governing Law"
+  ],
+  "Consulting Agreement": [
+    "Consulting Services",
+    "Term and Termination",
+    "Compensation",
+    "Independent Contractor Status",
+    "Confidentiality",
+    "Intellectual Property Rights",
+    "Governing Law",
+    "Dispute Resolution",
+    "Warranties",
+    "Severability"
+  ],
+  "Software License Agreement": [
+    "License Grant",
+    "Restrictions",
+    "Fees and Payment",
+    "Term and Termination",
+    "Intellectual Property",
+    "Confidentiality",
+    "Limited Warranty",
+    "Limitation of Liability",
+    "Indemnification",
+    "Governing Law"
+  ],
+  "Lease Agreement": [
+    "Parties",
+    "Premises",
+    "Lease Term",
+    "Rent and Payment Terms",
+    "Security Deposit",
+    "Maintenance and Repairs",
+    "Use of Premises",
+    "Termination",
+    "Governing Law",
+    "Dispute Resolution"
+  ],
+  "Partnership Agreement": [
+    "Formation",
+    "Capital Contributions",
+    "Profit and Loss Distribution",
+    "Management and Control",
+    "Duties of Partners",
+    "Confidentiality",
+    "Dispute Resolution",
+    "Termination",
+    "Governing Law",
+    "Amendments"
+  ],
+  "Sales Agreement": [
+    "Sale of Goods",
+    "Price and Payment Terms",
+    "Delivery Terms",
+    "Risk of Loss",
+    "Warranties",
+    "Indemnification",
+    "Limitation of Liability",
+    "Governing Law",
+    "Dispute Resolution",
+    "Entire Agreement"
+  ],
+  "SponsorshipAgreement": [
+    "Sponsorship Rights",
+    "Term and Termination",
+    "Sponsorship Fee",
+    "Payment Terms",
+    "Obligations of Sponsor",
+    "Obligations of Sponsee",
+    "Event Promotion",
+    "Branding and Visibility",
+    "Intellectual Property Rights",
+    "Exclusivity"
+  ]
+}
